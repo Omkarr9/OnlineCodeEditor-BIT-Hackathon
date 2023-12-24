@@ -10,3 +10,11 @@ and showing syntax highlighting of Java, Cpp and Python programming languages.
 → please go through the code part to better understand about the approach which
   we used to complete this project.
 → we have also added comments to each of the important code part of the project.
+
+**how run this project**
+--> open the folder
+--> go to terminal
+--> npm install express
+--> npm install express body-parser compilex nodemon
+--> nodemon Api.js
+--> open any brower and type the following URl http://localhost:8000
